@@ -8,12 +8,12 @@
 ivsg-psu/ivsg-psu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Welcome to the Intelligent Vehicles and Systems Group (IVSG) wiki. This page is basically a launch site toward other repos, to organize activities within the team and provide a hub where people can see how and where their project fits in. 
+Welcome to the Intelligent Vehicles and Systems Group (IVSG) wiki, the core codes used by Prof. Sean Brennan (sbrennan AT psu DOT edu) within the Mechanical Engineering department at Penn State University, University Park campus. This page is basically a launch site toward other repos, to organize activities within the team and provide a hub where people can see how and where their project fits in. 
 
 The sub-topics are organized as follows:
 ![Main_Page_Bubble_Diagram](https://github.com/ivsg-psu/ivsg_master/blob/master/Main_Page_Bubble_Diagram.gif)
 
-# [Field Data Collection](https://github.com/ivsg-psu/ivsg_master/wiki/Field-Data-Collection)
+# [Field Data Collection](https://github.com/ivsg-psu/Field-Data-Collection)
 Field Data Collection includes repos related to collection of data from physical vehicles and external data sources, including
 * Mapping van data collection and details
 * Open Street Map data importing
