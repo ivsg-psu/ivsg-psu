@@ -91,6 +91,15 @@ Driving Simulator repos include code for interacting with a driving simulator in
 * Importing real-world geometric information
 * Hardware interfaces to the driving simulator
 
+## [Publications](https://github.com/ivsg-psu/Publications)
+
+Repos for code sets to suport publications. These include:
+
+* Theses
+* Journals
+* Conferences
+* Reports
+
 ## [Odds and Ends](https://github.com/ivsg-psu/ivsg_master/wiki/Odds-And-Ends)
 
 Odds and Ends repos include codes and items that just don't really fit anywhere else. These include:
@@ -99,21 +108,3 @@ Odds and Ends repos include codes and items that just don't really fit anywhere 
 * The group webpage repo
 * Tutorials
 * Games and challenges for coding practice within the team
-
-* Instructions to follow when anyone picks up packages
-
-Who sent it?
-Correct example: the company, such as "McMaster"
-BAD example: "FedEx", USPS
-
-What was sent, in layperson's terms, and how many?
-Correct example: (2) of a keyboard, (1) of a power converter, (2) of an HDMI adaptor, (3) of a box of 100 computer screws
-Incorrect example: computer supplies
-
-What specifically, at a level of detail can we file a claim, check the order specifics, or order more?
-Correct example: A Belkin keyboard, model MD473, serial numbers 23467 and 23469
-Incorrect example: A grey keyboard
-
-It is a good idea as well to find a copy of the inventory(packing) list in the box, check that everything was actually in the box, and take a picture of the inventory list.
-
-Document the information as mentioned above and send it to our Whatsapp group chat or email Dr.B.
