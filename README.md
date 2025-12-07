@@ -32,7 +32,7 @@ This includes algorithms primarily, with specific focus on how to process large 
 * Path extraction from trajectories
 * Road edge extraction from LIDAR data
 
-## [Path Planning and Geometric Tools for Maps](https://github.com/ivsg-psu/ivsg_master/wiki/Path-Planning)
+## [Path Planning and Geometric Tools for Maps](https://github.com/ivsg-psu/PathPlanning)
 
 Path Planning and Geometric Tools for Maps includes algorithms to extract paths from traces of cleaned GPS data, plan paths through obstacle fields and in network graphs, tools to generate random maps, and geometric tools. Specific subsections include:
 
