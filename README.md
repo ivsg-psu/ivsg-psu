@@ -22,7 +22,7 @@ Field Data Collection includes repos related to collection of data from physical
 * Protocols for data collection for the autonomous wheelchair
 * Data collection for the Husky Robot
 
-## [Feature Extraction](https://github.com/ivsg-psu/ivsg_master/wiki/Feature-Extraction)
+## [Feature Extraction](https://github.com/ivsg-psu/FeatureExtraction)
 
 This includes algorithms primarily, with specific focus on how to process large data sets and extract features from this. These include:
 
