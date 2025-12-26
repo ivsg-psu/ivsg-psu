@@ -60,7 +60,7 @@ Traffic Simulator repos include algorithms and codes that enable simulation of l
 * Import of real-world road information into AIMSUN
 * Calibration of model parameters
 
-## [Vehicle and Sensing Hardware](https://github.com/ivsg-psu/ivsg_master/wiki/Hardware)
+## [Vehicle and Sensing Hardware](https://github.com/ivsg-psu/Hardware)
 
 Vehicle and Sensing Hardware repos include codes, diagrams, and CAD models for our vehicles, including:
 
@@ -99,6 +99,12 @@ Repos for code sets to suport publications. These include:
 * Journals
 * Conferences
 * Reports
+
+## [Classes](https://github.com/ivsg-psu/Classes)
+
+Repos for Dr. Brennan's course offerings. These include:
+
+* ME 452 - Vehicle Dynamics
 
 ## [Odds and Ends](https://github.com/ivsg-psu/ivsg_master/wiki/Odds-And-Ends)
 
