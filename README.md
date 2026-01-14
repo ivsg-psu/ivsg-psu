@@ -7,7 +7,18 @@ You can click the Preview link to take a look at your changes.
 
 Welcome to the Intelligent Vehicles and Systems Group (IVSG) wiki, the core codes used by Prof. Sean Brennan (sbrennan AT psu DOT edu) within the Mechanical Engineering department at Penn State University, University Park campus. This page is basically a launch site toward other repos, to organize activities within the team and provide a hub where people can see how and where their project fits in.
 
-The sub-topics are organized as follows:
+## [Position Postings!](https://github.com/ivsg-psu/PositionPostings)
+
+Position postings for the lab. We are regularly in search of:
+
+* Volunteers who want to learn new skills (design, build, experimentation, coding, automation)
+* Hourly wage undergrads who can offer specific skills (CAD, machining, programming, etc.)
+* Grad students with scholarships, assistancships, or similar self-funding 
+* Highly qualified grad students for specific projects
+
+***
+
+The technical sub-topics are organized as follows:
 ![Main_Page_Bubble_Diagram](https://github.com/ivsg-psu/ivsg_master/blob/master/Main_Page_Bubble_Diagram.gif)
 
 ## [Field Data Collection](https://github.com/ivsg-psu/FieldDataCollection)
@@ -104,6 +115,7 @@ Repos for code sets to suport publications. These include:
 
 Repos for Dr. Brennan's course offerings. These include:
 
+* Automatic grading tools
 * ME 452 - Vehicle Dynamics
 
 ## [Odds and Ends](https://github.com/ivsg-psu/ivsg_master/wiki/Odds-And-Ends)
