@@ -127,3 +127,4 @@ Odds and Ends repos include codes and items that just don't really fit anywhere 
 * Tutorials
 * Games and challenges for coding practice within the team
 * Copy and paste items
+* [Errata_Private](https://github.com/ivsg-psu/Errata_Private): This is a private repository for Errata. It contains private information, such as GitHub IDs of IVSG team.
