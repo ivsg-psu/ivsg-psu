@@ -23,15 +23,16 @@ The technical sub-topics are organized as follows:
 
 ## [Field Data Collection](https://github.com/ivsg-psu/FieldDataCollection)
 
-Field Data Collection includes repos related to collection of data from physical vehicles and external data sources, including
+Field Data Collection includes repositories and procedures focused on acquiring, organizing, and validating field data from physical vehicles and external data sources. These include:
 
-* Mapping van data collection and details
-* Open Street Map data importing
-* Pennsylvania Spatial Data Access (PASDA)
-* Protocols for data collection from P1
-* Protocols for data collection from the Steer-by-Wire Tractor Trailer
-* Protocols for data collection for the autonomous wheelchair
-* Data collection for the Husky Robot
+* Vehicle and platform safety procedures for autonomous field testing
+* Field data visualization tools for quick inspection and validation (geoplots, animations)
+* GPS infrastructure setup, including base stations, CORS servers, and time synchronization
+* Road network data ingestion and handling from OSM, RoadXML, and OpenDRIVE formats
+* Operational procedures for field platforms (mapping van, P1 racecar, tractor-trailer, Husky robot, autonomous wheelchair)
+* Standardized hardware configurations for field deployments (power systems, grounding, cabling, time sync)
+* Typical software deployments for field data collection (ROS1/ROS2 systems and configurations)
+* ROS-based data collection pipelines, diagnostics, logging, parsing, and database integration
 
 ## [Feature Extraction](https://github.com/ivsg-psu/FeatureExtraction)
 
