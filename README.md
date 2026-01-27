@@ -118,7 +118,7 @@ Repos for Dr. Brennan's course offerings. These include:
 * Automatic grading tools
 * ME 452 - Vehicle Dynamics
 
-## [Odds and Ends](https://github.com/ivsg-psu/ivsg_master/wiki/Odds-And-Ends)
+## [Errata](https://github.com/ivsg-psu/Errata)
 
 Odds and Ends repos include codes and items that just don't really fit anywhere else. These include:
 
@@ -126,3 +126,4 @@ Odds and Ends repos include codes and items that just don't really fit anywhere 
 * The group webpage repo
 * Tutorials
 * Games and challenges for coding practice within the team
+* Copy and paste items
