@@ -74,7 +74,7 @@ Vehicle and Sensing Hardware repos include codes, diagrams, and CAD models for o
 * The RC car builds
 * Simulator hardware builds
 
-## [Vehicle Simulations](https://github.com/ivsg-psu/ivsg_master/wiki/Vehicle-Simulations)
+## [Vehicle Simulations](https://github.com/ivsg-psu/vehicleSimulations)
 
 Vehicle Simulation repos include simulation tools for vehicle behaviors including:
 
